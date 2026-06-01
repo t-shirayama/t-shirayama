@@ -45,6 +45,7 @@
 | [csharp-idioms-patterns-notes](https://github.com/t-shirayama/csharp-idioms-patterns-notes)       | ノート     | C#のイディオムや設計パターンのメモ |
 | [csharp-notes](https://github.com/t-shirayama/csharp-notes)                                       | ノート     | C#の学習メモ                       |
 | [dotnet-modern-web-apps-notes](https://github.com/t-shirayama/dotnet-modern-web-apps-notes)       | ノート     | .NETのモダンWebアプリ開発メモ      |
+| [dotnet-backend-snippets](https://github.com/t-shirayama/dotnet-backend-snippets)                 | スニペット | .NETバックエンド開発用スニペット   |
 | [csharp-tutorial](https://github.com/t-shirayama/csharp-tutorial)                                 | チュートリアル | C#学習用の実験リポジトリ           |
 
 #### Java / Spring Boot
@@ -104,16 +105,10 @@
 | --------------------------------------------------------------------------------------- | ------------ | --------------------------------------------- |
 | [codex-notes](https://github.com/t-shirayama/codex-notes)                               | ノート       | Codex活用メモ                                 |
 | [github-notes](https://github.com/t-shirayama/github-notes)                             | ノート       | GitHubの使い方・運用メモ                      |
-| [marp-codex-workflow](https://github.com/t-shirayama/marp-codex-workflow)               | ワークフロー | MarpとCodexを使った資料作成ワークフロー       |
-
-### テンプレート・スニペット
-
-| リポジトリ                                                                                | 種別         | 用途                                             |
-| ----------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------ |
-| [codex-skills-snippets](https://github.com/t-shirayama/codex-skills-snippets)             | スニペット   | Codex Skills関連のスニペット                     |
-| [dotnet-backend-snippets](https://github.com/t-shirayama/dotnet-backend-snippets)         | スニペット   | .NETバックエンド開発用スニペット                 |
-| [codex-spec-driven-template](https://github.com/t-shirayama/codex-spec-driven-template)   | テンプレート | Codexで仕様駆動開発を進めるためのテンプレート   |
+| [codex-skills-snippets](https://github.com/t-shirayama/codex-skills-snippets)           | スニペット   | Codex Skills関連のスニペット                  |
+| [codex-spec-driven-template](https://github.com/t-shirayama/codex-spec-driven-template) | テンプレート | Codexで仕様駆動開発を進めるためのテンプレート |
 | [github-pages-notes-template](https://github.com/t-shirayama/github-pages-notes-template) | テンプレート | GitHub Pagesでノートを公開するためのテンプレート |
+| [marp-codex-workflow](https://github.com/t-shirayama/marp-codex-workflow)               | ワークフロー | MarpとCodexを使った資料作成ワークフロー       |
 
 ### 翻訳・技術資料
 
